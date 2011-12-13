@@ -1,0 +1,11 @@
+napis na test
+
+omcat#1:
+
+msgConsumer
+
+Tomcat#2:
+
+Evp - configured with 1 thread
+
+* ActiveMQ? (2GB)
